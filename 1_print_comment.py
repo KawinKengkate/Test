@@ -1,5 +1,6 @@
 def main():
     print("Hello World") #show "Hello World"
+    print("\n FUCK YOU")
 '''
 สวัสดีครับ
 วันนี้ทำอะไรดีครับ
