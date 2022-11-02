@@ -1,0 +1,12 @@
+def main():
+    print("Hello World") #show "Hello World"
+'''
+สวัสดีครับ
+วันนี้ทำอะไรดีครับ
+อิอิ ฮ๊ฮ๊
+'''
+"""
+็Hello Kub
+What gonna do today?
+eiei hihi
+"""
